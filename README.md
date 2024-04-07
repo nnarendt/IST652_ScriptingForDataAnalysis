@@ -1,1 +1,1 @@
-# IST652_ScriptingForDataAnalysis
+# IST652 Scripting For Data Analysis
